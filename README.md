@@ -1,6 +1,6 @@
-# dm-role-menu
- npm package for reaction roles menus in DM
+# dm-reaction-menu
+ npm package for reaction menus in DM
 
 # INSTALLATION
 
-npm i dm-role-menu
+npm i dm-reaction-menu
